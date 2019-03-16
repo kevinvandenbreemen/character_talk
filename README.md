@@ -1,14 +1,7 @@
 # character_talk
 
-A new Flutter package project.
+Simple library for showing rectangles with text/character lines in a video game.
 
 ## Getting Started
 
-This project is a starting point for a Dart
-[package](https://flutter.io/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Using the library is fairly straightforward.  Simply call ```CharacterTalk.getSpeechDisplay(context, "What to say")``` and you will get a floating box that you can place like any other Flutter widget.
