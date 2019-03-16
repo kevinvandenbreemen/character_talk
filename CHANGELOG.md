@@ -9,3 +9,7 @@ Documentation
 ## [0.0.3] - 2019-03-16
 
 Properly document the releases
+
+## [0.0.4] - 2019-03-16
+
+Fix documentation of use
