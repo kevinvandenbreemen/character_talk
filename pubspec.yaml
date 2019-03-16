@@ -1,7 +1,7 @@
 name: character_talk
 description: A new Flutter package project.
 version: 0.0.1
-author: Kevin R. VanDenBreemen
+author: Kevin R. VanDenBreemen <kevin.vandenbreemen@gmail.com>
 homepage: https://github.com/kevinvandenbreemen/character_talk
 
 environment:
