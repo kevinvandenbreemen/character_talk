@@ -1,8 +1,8 @@
 name: character_talk
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: Kevin R. VanDenBreemen
+homepage: https://github.com/kevinvandenbreemen/character_talk
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  animated_text_kit: 1.3.0
+  animated_text_kit: ^1.3.0
 
 dev_dependencies:
   flutter_test:
