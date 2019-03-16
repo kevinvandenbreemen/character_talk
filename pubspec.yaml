@@ -1,6 +1,6 @@
 name: character_talk
-description: A new Flutter package project.
-version: 0.0.1
+description: Simple Flutter package to make a floating rectangle with a message or some speech in it.
+version: 0.0.3
 author: Kevin R. VanDenBreemen <kevin.vandenbreemen@gmail.com>
 homepage: https://github.com/kevinvandenbreemen/character_talk
 
